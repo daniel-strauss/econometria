@@ -10,7 +10,7 @@ from datetime import datetime
 #plt.style.use('seaborn')
 
 # Read the data
-df = pd.read_csv('data/future-gc00-daily-prices.csv', parse_dates=[0], index_col=0)
+df = pd.read_csv('../data/future-gc00-daily-prices.csv', parse_dates=[0], index_col=0)
 
 df['points'] = df["Open"].replace(",", "", regex=True).astype(float)
 df = df.reindex(

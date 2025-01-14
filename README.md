@@ -30,7 +30,7 @@ Will the sun rise up tomorrow? Many people believe the sun will rise tomorrow si
 day of their lives. Is that a logical conclusion? At least empirically seen, on every past day of their lives,
 it was more useful to predict the sun would do that thing the next morning than it did all days in their
 life before that past day. But is it logical to conclude that if a conclusion proved to be useful on every past
-day of one’s life, it would be useful today? It can be seen, that we end up at the initial problem. To not turn crazy, let’s just make that conclusion, independent
+day of one’s life, it would be useful today? It can be seen that we end up at the initial problem. To not turn crazy, let’s just make that conclusion, independent
 of whether it is logical or not. Carefully picking some things to assume to be time-invariant leaves us
 with a new ability: making predictions about the future from observations in the past. For example, one
 could pick, as such, the stationarity of a time series. If one wants to predict a time series that takes

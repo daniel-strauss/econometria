@@ -15,7 +15,7 @@
 </p>
 <br>
 
-### [$\rightarrow$ Click here to see the project report $\leftarrow$](report/Econometria_final_project.pdf)
+### [Click here to see the project report](report/Econometria_final_project.pdf)
 
 ##  Table of Contents
 
@@ -33,7 +33,7 @@ life before that past day. But is it logical to conclude that if a conclusion pr
 day of one’s life, it would be useful today? It can be seen, that we end up at the initial problem. To not turn crazy, let’s just make that conclusion, independent
 of whether it is logical or not. Carefully picking some things to assume to be time-invariant leaves us
 with a new ability: making predictions about the future from observations in the past. For example, one
-could pick, as such, the stationarity of a time series. If one wants to predict a time series $W_t$ that takes
+could pick, as such, the stationarity of a time series. If one wants to predict a time series that takes
 algebraic values, such information about the future may lie in estimated autocorrelations and partial
 autocorrelations observed from the past. If this series is stationary, the correlations will repeat in the
 future. Empirically, we can not prove stationarity, but we can observe statistically significant stationarity.
